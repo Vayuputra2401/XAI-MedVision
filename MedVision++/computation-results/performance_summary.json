@@ -1,0 +1,7 @@
+{
+    "avg_load_time": 0.09248093763987224,
+    "avg_preprocessing_time": 0.2457261085510254,
+    "avg_inference_time": 0.5624073346455892,
+    "avg_total_time": 0.9006143808364868,
+    "avg_memory_increase": 323.9641927083333
+}
